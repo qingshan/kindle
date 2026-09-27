@@ -41,6 +41,25 @@
           ]
         }
       ]
+    },
+    "ksync": {
+      "name": "ksync",
+      "author": "Qingshan",
+      "description": "OPDS catalog sync with Kindle Library collections",
+      "artifacts": [
+        {
+          "url": "https://github.com/qingshan/ksync/releases/download/v0.6.0/ksync_0.6.0_kindlehf.kpkg",
+          "version": [
+            0,
+            6,
+            0
+          ],
+          "dependencies": [],
+          "supported_platforms": [
+            "kindlehf"
+          ]
+        }
+      ]
     }
   }
 }
