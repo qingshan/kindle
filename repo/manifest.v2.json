@@ -22,6 +22,25 @@
           ]
         }
       ]
+    },
+    "kpod": {
+      "name": "kpod",
+      "author": "Qingshan",
+      "description": "Podcast player with OPML subscriptions and WAF playback",
+      "artifacts": [
+        {
+          "url": "https://github.com/qingshan/kpod/releases/download/v0.6.0/kpod_0.6.0_kindlehf.kpkg",
+          "version": [
+            0,
+            6,
+            0
+          ],
+          "dependencies": [],
+          "supported_platforms": [
+            "kindlehf"
+          ]
+        }
+      ]
     }
   }
 }
