@@ -60,6 +60,25 @@
           ]
         }
       ]
+    },
+    "tailscale": {
+      "name": "tailscale",
+      "author": "Qingshan",
+      "description": "Connect a Kindle to a Tailscale network",
+      "artifacts": [
+        {
+          "url": "https://github.com/qingshan/tailscale/releases/download/v0.6.0/tailscale_0.6.0_kindlehf.kpkg",
+          "version": [
+            0,
+            6,
+            0
+          ],
+          "dependencies": [],
+          "supported_platforms": [
+            "kindlehf"
+          ]
+        }
+      ]
     }
   }
 }
