@@ -1,0 +1,7 @@
+.idea/
+.venv/
+/target
+**/__pycache__/
+/books/out/
+/repo/packages/
+/repo/index.html

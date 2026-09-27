@@ -1,0 +1,5 @@
+###
+# URL
+###
+show_url = true # Whether we should show a `;kpm add-repo` command with the URL
+url = "https://kindle.qingshan.dev/repo/manifest.v2.json" # The URL to this repository

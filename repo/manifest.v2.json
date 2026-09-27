@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "id": "qingshan",
+  "name": "Qingshan's Kindle Repo",
+  "description": "Personal kpm package repository for jailbroken Kindles \u2014 custom apps and hacks, published from https://github.com/qingshan/kindle to https://kindle.qingshan.dev/repo/",
+  "packages": {}
+}
