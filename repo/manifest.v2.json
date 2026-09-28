@@ -48,11 +48,11 @@
       "description": "OPDS catalog sync with Kindle Library collections",
       "artifacts": [
         {
-          "url": "https://github.com/qingshan/ksync/releases/download/v0.6.2/ksync_0.6.2_kindlehf.kpkg",
+          "url": "https://github.com/qingshan/ksync/releases/download/v0.6.3/ksync_0.6.3_kindlehf.kpkg",
           "version": [
             0,
             6,
-            2
+            3
           ],
           "dependencies": [],
           "supported_platforms": [
