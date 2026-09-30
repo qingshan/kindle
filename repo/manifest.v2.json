@@ -10,11 +10,11 @@
       "description": "View and drive a remote tmux session from the Kindle",
       "artifacts": [
         {
-          "url": "https://github.com/qingshan/kmux/releases/download/v0.6.0/kmux_0.6.0_kindlehf.kpkg",
+          "url": "https://github.com/qingshan/kmux/releases/download/v0.6.1/kmux_0.6.1_kindlehf.kpkg",
           "version": [
             0,
             6,
-            0
+            1
           ],
           "dependencies": [],
           "supported_platforms": [
