@@ -67,11 +67,11 @@
       "description": "Connect a Kindle to a Tailscale network",
       "artifacts": [
         {
-          "url": "https://github.com/qingshan/tailscale/releases/download/v0.6.4/tailscale_0.6.4_kindlehf.kpkg",
+          "url": "https://github.com/qingshan/tailscale/releases/download/v0.6.6/tailscale_0.6.6_kindlehf.kpkg",
           "version": [
             0,
             6,
-            4
+            6
           ],
           "dependencies": [],
           "supported_platforms": [
