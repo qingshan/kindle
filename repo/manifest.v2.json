@@ -29,11 +29,11 @@
       "description": "Podcast player with OPML subscriptions and WAF playback",
       "artifacts": [
         {
-          "url": "https://github.com/qingshan/kpod/releases/download/v0.6.2/kpod_0.6.2_kindlehf.kpkg",
+          "url": "https://github.com/qingshan/kpod/releases/download/v0.6.25/kpod_0.6.25_kindlehf.kpkg",
           "version": [
             0,
             6,
-            2
+            25
           ],
           "dependencies": [],
           "supported_platforms": [
